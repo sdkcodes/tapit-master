@@ -1,0 +1,215 @@
+body {
+	background: #ccc;
+	color: #FFF;
+	background-image: url('../images/bangkok-highway.jpg');
+	background-position: center;
+	background-size: 300%;
+	background-repeat: no-repeat;
+}
+
+h1.header {
+	color: #000;
+	font-family: 'Arial Black';
+}
+
+p.tagline {
+	color: #000;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.police {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: #000000;
+	border: 1px solid gray;
+	background-image: url('../images/Picture1.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-clip: inherit;
+}
+
+.police a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.frsc a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.police img {
+	border-radius: 5px;
+}
+
+.frsc {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: cyan;
+	border: 1px solid gray;
+	background-image: url('../images/Picture2.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+.frsc a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.frsc a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.frsc img {
+	border-radius: 5px;
+}
+
+.lastma {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: cyan;
+	border: 1px solid gray;
+	background-image: url('../images/Picture4.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+.lastma a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.lastma a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.lastma img {
+	border-radius: 5px;
+}
+
+.lasema {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: cyan;
+	border: 1px solid gray;
+	background-image: url('../images/Picture5.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+.lasema a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.lasema a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.lasema img {
+	border-radius: 5px;
+}
+
+.nafdac {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: cyan;
+	border: 1px solid gray;
+	background-image: url('../images/nafdac.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+.nafdac a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.nafdac a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.nafdac img {
+	border-radius: 5px;
+}
+
+.ndlea {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: cyan;
+	border: 1px solid gray;
+	background-image: url('../images/ndlea.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+.ndlea a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.ndlea a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.ndlea img {
+	border-radius: 5px;
+}
+
+.fireDept {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	border-radius: 5px;
+	background-color: cyan;
+	border: 1px solid gray;
+	background-image: url('../images/Picture3.png');
+	background-repeat: no-repeat;
+	background-size: 110%;
+	background-position: center;
+}
+
+.fireDept a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.fireDept a:hover {
+	color: cyan;
+	text-decoration: none;
+}
+
+.fireDept img {
+	border-radius: 5px;
+}
