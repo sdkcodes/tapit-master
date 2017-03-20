@@ -1,13 +1,18 @@
 body {
-	background: #ccc;
+	background-color: #ccc;
 	color: #FFF;
 	background-image: url('../images/bangkok-highway.jpg');
 	background-position: center;
-	background-size: 300%;
+	background-size: 500%;
 	background-repeat: no-repeat;
 }
 
 h1.header {
+	color: #000;
+	font-family: 'Arial Black';
+}
+
+h2.header {
 	color: #000;
 	font-family: 'Arial Black';
 }
@@ -19,10 +24,7 @@ p.tagline {
 }
 
 .police {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: #000000;
 	border: 1px solid gray;
@@ -47,10 +49,7 @@ p.tagline {
 }
 
 .frsc {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: cyan;
 	border: 1px solid gray;
@@ -75,10 +74,7 @@ p.tagline {
 }
 
 .lastma {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: cyan;
 	border: 1px solid gray;
@@ -103,10 +99,7 @@ p.tagline {
 }
 
 .lasema {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: cyan;
 	border: 1px solid gray;
@@ -131,10 +124,7 @@ p.tagline {
 }
 
 .nafdac {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: cyan;
 	border: 1px solid gray;
@@ -159,10 +149,7 @@ p.tagline {
 }
 
 .ndlea {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: cyan;
 	border: 1px solid gray;
@@ -187,10 +174,7 @@ p.tagline {
 }
 
 .fireDept {
-	padding-top: 15px;
-	padding-bottom: 15px;
-	padding-right: 15px;
-	padding-left: 20px;
+	padding: 5px;
 	border-radius: 5px;
 	background-color: cyan;
 	border: 1px solid gray;
